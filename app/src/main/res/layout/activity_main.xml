@@ -70,6 +70,7 @@
         </LinearLayout>
 
         <Button
+            android:background="@drawable/bg_red"
             android:id="@+id/btnLoginGoogle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -79,10 +80,12 @@
             android:text="@string/login_melalui_google" />
 
         <Button
+            android:textColor="#ffff"
+            android:background="@drawable/bg_blue"
             android:id="@+id/btnLoginFB"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="10dp"
             android:drawableLeft="@drawable/ic_facebook"
             android:paddingLeft="10dp"
             android:text="@string/lanjutkan_dengan_facebook" />
