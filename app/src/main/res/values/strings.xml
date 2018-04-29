@@ -1,9 +1,15 @@
 <resources>
     <string name="app_name">EcommerceApps</string>
-    <string name="email_telepon_usename">Email/Telepon/Usename</string>
+    <string name="email_telepon_username">Email/Telepon/Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="login_dengan_cepat">Login dengan cepat</string>
     <string name="login_melalui_google">Login melalui google</string>
     <string name="lanjutkan_dengan_facebook">Lanjutkan dengan facebook</string>
+
+    <!--Untuk Register-->
+    <string name="register_sandi">sandi</string>
+    <string name="register_nama_lengkap">nama lengkap</string>
+    <string name="register_user_name">ID Pengguna</string>
+    <string name="register_ulang_sandi">ulang sandi</string>
 </resources>
